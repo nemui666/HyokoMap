@@ -1,0 +1,1 @@
+../../../NendSDK_iOS/NendSDK_iOS-3.0.0/Nend/NendAd/NADNative.h

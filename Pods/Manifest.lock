@@ -1,0 +1,19 @@
+PODS:
+  - ECSlidingViewController (2.0.3)
+  - GoogleMaps (1.10.5)
+  - NendSDK_iOS (3.0.0)
+  - SwiftyJSON (2.3.1)
+
+DEPENDENCIES:
+  - ECSlidingViewController
+  - GoogleMaps
+  - NendSDK_iOS
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  ECSlidingViewController: 6485c14f23b4487e9946535421ca8f111f86cc53
+  GoogleMaps: da51c62c338c2d9c47cdad470a0d1e0e4b8544e4
+  NendSDK_iOS: a3c73d37f6c09bfe73d74aee32b77ebe1d7bf6c8
+  SwiftyJSON: 592b53bee5ef3dd9b3bebc6b9cb7ee35426ae8c3
+
+COCOAPODS: 0.39.0
