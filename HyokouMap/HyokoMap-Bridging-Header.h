@@ -11,8 +11,6 @@
 #import <YMapKit/YMapKit.h>
 #import <GoogleMaps/GoogleMaps.h>
 #import <SMCalloutView/SMCalloutView.h>
-#import "GADBannerView.h"
-#import "GoogleMapAPIKey.h"
 #endif /* HyokoMap_Bridging_Header_h */
 
 
